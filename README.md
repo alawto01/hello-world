@@ -1,2 +1,2 @@
 # hello-world
-This is a new repository to demonstrate my understanding of computer programming
+My name is Angelica Lawton and I am new to coding. 
